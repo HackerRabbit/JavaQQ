@@ -42,6 +42,9 @@ import common.model.entity.ResponseStatus;
 import common.model.entity.User;
 
 public class Login {
+
+
+//略略略
 	
 	public static BufferedImage backimg;
 	public static BufferedImage close;
